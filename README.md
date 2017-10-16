@@ -99,7 +99,11 @@ Let's add a new feature to our project. Use one of the following methods to make
 1. Finally, you need to push the changes to your remote branch on GitHub (which is your origin): `git push origin fix-abc`
 1. You should now be able to browse to your repo on github.com, select your branch, and see the change.
 
-### With gitub.com
+### With github.com
+1. Navigate to your repository on github.com
+1. Click the _Branch_ button.
+1. It will open a pulldown, enter the name of your branch in the text box: `fix-123`.
+1. It will now load the branch on github.com. Make a code change.
 
 ### Private forks
 
