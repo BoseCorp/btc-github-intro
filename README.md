@@ -8,6 +8,7 @@ GitHub is a wonderful collaborative tool with much more than just version contro
 - You don't need to know much git if you use a Git client
   - GitHub Desktop: https://desktop.github.com/
   - SourceTree: https://www.sourcetreeapp.com/
+  - You probably know more git than me!
 - SVN users: https://www.git-tower.com/blog/git-for-subversion-users-cheat-sheet/
 
 ## GitHub
