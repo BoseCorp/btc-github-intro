@@ -78,9 +78,16 @@ Special protection rules can be enforced by GitHub for your branches. For exampl
 
 Additionally, if you're working with a Galapagos microservice. Jenkins is integrated with GitHub so you can also enforce that no pull requests can be merged until all tests have passed on Jenkins.
 
-## Adding a feature 
+## Adding a feature
+Let's add a new feature to our project. Use one of the following methods to make a change to your repository.
 
 ### With GitHub Desktop
+1. Open GitHub Desktop and select _Branch > New Branch_.
+1. Enter a branch name like `fix-abc`.
+1. Make a code change.
+1. You should see the changed files show up in GitHub Desktop.
+1. Add a _commit_ message and click _Commit to fix-abc_.
+1. You should now be able to browse to your repo on github.com, select your branch, and see the change.
 
 ### With git
 
