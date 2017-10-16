@@ -58,18 +58,25 @@ $ git clone git@github.com:BoseCorp/btc-github-intro.git
 1. Give your repository a name (you can change this later easily)
 1. Select whether the repo is public or private. Public is public to the entire Internet. **You most likely should always choose private**. Be careful!
 
-## Readme
-- As you can see, the _README.md_ file renders when you visit any repository on github.com.
+### Create a README
+- The _README.md_ file renders when you visit any repository on github.com.
 - Readmes are really important if you want other teams to collaborate or consume your project.
 - Readmes should contain:
   - An overview of what the repo contains
   - Instructions for getting it running
   - Links to necessary API/usage documentation
 - Sometimes badges <img src="https://img.shields.io/badge/kinda-like this-green.svg"> are displayed on the readme. These give details to the project's build/test status.
-
-are displayed
+- Markdown (and some HTML) is rendered in the readme. It's useful to reference a [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ### Permissions
+Private repositories are, by default, only visible to you. You must share them with your colleagues if you want them to collaborate.
+
+1. Go to _Settings > Collaborators and teams_ and add a user or a "team" to your repo.
+
+#### Protected branches
+Special protection rules can be enforced by GitHub for your branches. For example, let's say you wanted to make sure nobody could change code in a protected branch without being an administrator. This can be configured in _Settings > Branches_. 
+
+Additionally, if you're working with a Galapagos microservice. Jenkins is integrated with GitHub so you can also enforce that no pull requests can be merged until all tests have passed on Jenkins.
 
 ## Adding a feature 
 
