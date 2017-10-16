@@ -59,7 +59,15 @@ $ git clone git@github.com:BoseCorp/btc-github-intro.git
 1. Select whether the repo is public or private. Public is public to the entire Internet. **You most likely should always choose private**. Be careful!
 
 ## Readme
-- Markdown, badges
+- As you can see, the _README.md_ file renders when you visit any repository on github.com.
+- Readmes are really important if you want other teams to collaborate or consume your project.
+- Readmes should contain:
+  - An overview of what the repo contains
+  - Instructions for getting it running
+  - Links to necessary API/usage documentation
+- Sometimes badges <img src="https://img.shields.io/badge/kinda-like this-green.svg"> are displayed on the readme. These give details to the project's build/test status.
+
+are displayed
 
 ### Permissions
 
