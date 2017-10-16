@@ -21,7 +21,9 @@ GitHub is a wonderful collaborative tool with much more than just version contro
 - 
 
 # Activities
-
+## Clone a repo
+### With git
+### With GitHub Desktop
 ## Creating a repo
 
 ## Readme
