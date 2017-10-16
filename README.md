@@ -53,6 +53,11 @@ $ git clone git@github.com:BoseCorp/btc-github-intro.git
 
 ## Creating a repo
 
+1. Look for the [New repository] button on the GitHub homepage: https://github.com/new
+1. Select the "Owner". For Bose projects, this should **always** be BoseCorp
+1. Give your repository a name (you can change this later easily)
+1. Select whether the repo is public or private. Public is public to the entire Internet. **You most likely should always choose private**. Be careful!
+
 ## Readme
 - Markdown, badges
 
