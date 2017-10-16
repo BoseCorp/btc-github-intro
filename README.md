@@ -28,6 +28,7 @@ GitHub is a wonderful collaborative tool with much more than just version contro
 # Activities
 
 ## Make a GitHub account
+Bose has a corporate GitHub account called [BoseCorp](https://github.com/BoseCorp). To get added to this, you must create an account (with some special configuration) and contact CIS via Remedy for them to add you in. See [this wiki article](https://wiki.bose.com/display/cloud/GitHub+Notes) for more details on the onboarding process.
 
 ## Clone a repo
 Get the source code from this repository on your computer locally.
