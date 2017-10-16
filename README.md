@@ -3,10 +3,13 @@ GitHub is a wonderful collaborative tool with much more than just version contro
 
 # Activities
 ## Open source/inner source
+- Understand the problem Open Source projects have
+- Following people, watching/starring repos
 
 ## Creating a repo
 
 ## Readme
+- Markdown, badges
 
 ### Permissions
 
