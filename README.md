@@ -68,6 +68,10 @@ $ git clone git@github.com:BoseCorp/btc-github-intro.git
 - Sometimes badges <img src="https://img.shields.io/badge/kinda-like this-green.svg"> are displayed on the readme. These give details to the project's build/test status.
 - Markdown (and some HTML) is rendered in the readme. It's useful to reference a [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+### Review commit history
+- Look at the commit history of your repository
+- Review your open branches
+
 ### Permissions
 Private repositories are, by default, only visible to you. You must share them with your colleagues if you want them to collaborate.
 
