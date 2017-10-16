@@ -11,11 +11,16 @@ GitHub is a wonderful collaborative tool with much more than just version contro
 - SVN users: https://www.git-tower.com/blog/git-for-subversion-users-cheat-sheet/
 
 ## GitHub
+- Web based git hosting service, been around since 2008
+- Free for open source projects
 - octocat - https://octodex.github.com/
-## Open source/inner source
-- Understand the problem Open Source projects have
-- Following people, watching/starring repos
-- https://en.wikipedia.org/wiki/Inner_source
+### Why GitHub?
+- Open source development is very successful on platforms like GitHub
+  - Large software projects with thousands of contributors are able to thrive
+  - How do you manage thousands of contributors? GitHub has the tooling
+- Bose wants to adopt some Open Source practices, as [Inner Source](https://en.wikipedia.org/wiki/Inner_source)
+- Social features, like following people, watching/starring repos
+- Let's jump on the [bandwagon](https://github.com/blog/1724-10-million-repositories)
 
 ## Why GitHub?
 - 
