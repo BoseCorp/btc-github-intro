@@ -90,6 +90,14 @@ Let's add a new feature to our project. Use one of the following methods to make
 1. You should now be able to browse to your repo on github.com, select your branch, and see the change.
 
 ### With git
+1. Navigate to your repository via a terminal window
+1. Create a new branch based on _master_ `git checkout -b fix-abc`
+1. Make a code change
+1. `git status` should show there are changes
+1. `git add your-changed-file.txt` to add the changes to the staging area
+1. `git commit -m "added a few blank lines"` to commit the changes
+1. Finally, you need to push the changes to your remote branch on GitHub (which is your origin): `git push origin fix-abc`
+1. You should now be able to browse to your repo on github.com, select your branch, and see the change.
 
 ### With gitub.com
 
