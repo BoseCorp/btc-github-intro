@@ -68,6 +68,11 @@ $ git clone git@github.com:BoseCorp/btc-github-intro.git
 - Sometimes badges <img src="https://img.shields.io/badge/kinda-like this-green.svg"> are displayed on the readme. These give details to the project's build/test status.
 - Markdown (and some HTML) is rendered in the readme. It's useful to reference a [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+### Add a .gitignore
+- Sometimes you may not want to add certain files to your repository. 
+- Use a `.gitignore` file to ensure that those files cannot be added.
+- https://www.gitignore.io/
+
 ### Review commit history
 - Look at the commit history of your repository
 - Review your open branches
