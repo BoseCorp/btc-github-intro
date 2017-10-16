@@ -77,3 +77,5 @@ $ git clone git@github.com:BoseCorp/btc-github-intro.git
 - https://github.com/illacceptanything/illacceptanything
 
 ## Issue tracking
+
+## Website hosting
