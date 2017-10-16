@@ -127,3 +127,8 @@ Let's conduct a code review on our previously-made fix branch. To do so, we need
 ## Issue tracking
 
 ## Website hosting
+
+## Tags
+
+### Comparing tags
+- https://github.com/BoseCorp/bmx-adapter-tunein/compare/0.2.8...0.3.5
