@@ -78,7 +78,7 @@ Special protection rules can be enforced by GitHub for your branches. For exampl
 
 Additionally, if you're working with a Galapagos microservice. Jenkins is integrated with GitHub so you can also enforce that no pull requests can be merged until all tests have passed on Jenkins.
 
-## Adding a feature
+## Adding a fix
 Let's add a new feature to our project. Use one of the following methods to make a change to your repository.
 
 ### With GitHub Desktop
@@ -108,7 +108,19 @@ Let's add a new feature to our project. Use one of the following methods to make
 ### Private forks
 
 ### Pull requests/code reviews
+- Pull requests are a GitHub feature, and its not a _git_ term.
+- Pull requests tell the administrator of a repo that you would like them _pull_ your change into their branch.
+- This is how large open source projects operate. You can't make changes to them directly, but you can copy the repo elsewhere, make a change, and request someone to pull in the change.
 - https://github.com/illacceptanything/illacceptanything
+- The act of reviewing a Pull Request facilitates a "code review"
+
+Let's conduct a code review on our previously-made fix branch. To do so, we need to create a pull request to merge our new branch into the old one.
+
+1. Navigate to your repository on github.com
+1. Click the "New pull request" button
+1. Select `master` as your base branch.
+1. Select `fix-123` as your compare branch.
+1. Click the _Create pull request_ button.
 
 ## Issue tracking
 
