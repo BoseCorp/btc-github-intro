@@ -121,6 +121,8 @@ Let's conduct a code review on our previously-made fix branch. To do so, we need
 1. Select `master` as your base branch.
 1. Select `fix-123` as your compare branch.
 1. Click the _Create pull request_ button.
+1. It's a good idea to put a summary of the changes you made, in addition to any related Jira ticket links.
+1. Add another user as a reviewer. This will send them and email asking them to review the pull request.
 
 ## Issue tracking
 
