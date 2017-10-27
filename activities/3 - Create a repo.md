@@ -7,6 +7,8 @@
 1. Select whether the repo is public or private. Public is public to the entire Internet. **You most likely should always choose private when its a Bose project**. Be careful!
 
 ## Making changes to files
+Use the steps below as a reference for adding files to your repos.
+
 ### Via github.com
 1. Navigate to your repository
 1. Either click on the file you want to edit > pen icon, or click "Create new file"
@@ -20,7 +22,7 @@ $ git add your_file_name
 $ git commit -m "Your commit message"
 $ git push origin master
 ```
-
+## Let's make some files
 ### Via GitHub Desktop
 1. Make the changes/additions to the files you want within the local repo
 1. You'll see the change appear on the left side.
