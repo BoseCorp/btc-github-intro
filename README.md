@@ -35,6 +35,7 @@ GitHub is a wonderful collaborative tool with much more than just version contro
 - [Branching](https://github.com/Dominick-Peluso-Bose/btc-github-intro/blob/master/activities/4%20-%20Branching.md)
 
 ## Other stuff we'll touch on if we have time
+- Webhook integrations (especially Galapagos)
 - Issue tracking
 - Website hosting
 - Tags
