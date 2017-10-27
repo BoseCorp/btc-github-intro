@@ -25,8 +25,6 @@ Let's add a new feature to our project. Use one of the following methods to make
 1. It will open a pulldown, enter the name of your branch in the text box: `fix-123`.
 1. It will now load the branch on github.com. Make a code change.
 
-### Private forks
-
 ### Pull requests/code reviews
 - Pull requests are a GitHub feature, and its not a _git_ term.
 - Pull requests tell the administrator of a repo that you would like them _pull_ your change into their branch.
@@ -43,3 +41,12 @@ Let's conduct a code review on our previously-made fix branch. To do so, we need
 1. Click the _Create pull request_ button.
 1. It's a good idea to put a summary of the changes you made, in addition to any related Jira ticket links.
 1. Add another user as a reviewer. This will send them and email asking them to review the pull request.
+
+### Private forks
+- Since you do not have access to modify my repository (https://github.com/Dominick-Peluso-Bose/btc-github-intro) you cannot make a branch. To contribute to the code, you must create a **private fork**.
+- Private forks allow users to make tracked changes to a copy of someone else's repisitory.
+- You can send a pull request against a origin of a fork. This is how much of the open source community operates.
+
+1. Make a private fork of https://github.com/Dominick-Peluso-Bose/btc-github-intro
+1. Change **THIS** to your first name
+1. Create a pull request in your private fork with the base branch as `Dominick-Peluso-Bose/btc-github-intro`
