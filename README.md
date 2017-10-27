@@ -1,7 +1,7 @@
 # btc-github-intro
 GitHub is a wonderful collaborative tool with much more than just version control. In this workshop we'll go through the process of creating a repository, setting permissions, protecting branches, branching code, conducting code reviews, issue tracking, and general best practices.
 
-# About GitHub
+# Overview
 
 ## Git
 - A distrubuted version control system, been around since 2005
@@ -14,6 +14,7 @@ GitHub is a wonderful collaborative tool with much more than just version contro
 
 ## GitHub
 - Web based git hosting service, been around since 2008
+- New to Bose, only about 1 year of use
 - Free for open source projects
 - octocat - https://octodex.github.com/
 
@@ -22,6 +23,8 @@ GitHub is a wonderful collaborative tool with much more than just version contro
   - Large software projects with thousands of contributors are able to thrive
   - How do you manage thousands of contributors? GitHub has the tooling
 - Bose wants to adopt some Open Source practices, as [Inner Source](https://en.wikipedia.org/wiki/Inner_source)
+- Bose has a global workforce with contractors, contract houses, spanning multiple continents
+  - The hosted cloud model of GitHub works very well for us
 - Social features, like following people, watching/starring repos
 - Let's jump on the [bandwagon](https://github.com/blog/1724-10-million-repositories)
 
