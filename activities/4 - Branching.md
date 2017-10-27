@@ -28,8 +28,6 @@ Let's add a new feature to our project. Use one of the following methods to make
 ### Pull requests/code reviews
 - Pull requests are a GitHub feature, and its not a _git_ term.
 - Pull requests tell the administrator of a repo that you would like them _pull_ your change into their branch.
-- This is how large open source projects operate. You can't make changes to them directly, but you can copy the repo elsewhere, make a change, and request someone to pull in the change.
-- https://github.com/illacceptanything/illacceptanything
 - The act of reviewing a Pull Request facilitates a "code review"
 
 Let's conduct a code review on our previously-made fix branch. To do so, we need to create a pull request to merge our new branch into the old one.
@@ -46,6 +44,8 @@ Let's conduct a code review on our previously-made fix branch. To do so, we need
 - Since you do not have access to modify my repository (https://github.com/Dominick-Peluso-Bose/btc-github-intro) you cannot make a branch. To contribute to the code, you must create a **private fork**.
 - Private forks allow users to make tracked changes to a copy of someone else's repisitory.
 - You can send a pull request against a origin of a fork. This is how much of the open source community operates.
+- You can't make changes to them directly, but you can copy the repo elsewhere, make a change, and request someone to pull in the change.
+- https://github.com/illacceptanything/illacceptanything
 
 1. Make a private fork of https://github.com/Dominick-Peluso-Bose/btc-github-intro
 1. Change **THIS** to your first name
