@@ -3,6 +3,8 @@ Bose has a corporate GitHub account called [BoseCorp](https://github.com/BoseCor
 
 If you don't have a BoseCorp account and want to follow along, create a free GitHub account.
 
+Don't forget to set a profile photo. Remember, Bose is hiring a lot of new folks. Let's help them put a face to the name!
+
 At this point, you can decide if you'd like to use GitHub via command line with `git` or use a client like [GitHub Desktop](https://desktop.github.com/) or [Sourcetree](https://www.sourcetreeapp.com/). I recommend setting up both!
 
 ### Git setup
