@@ -25,6 +25,12 @@ GitHub is a wonderful collaborative tool with much more than just version contro
 - Social features, like following people, watching/starring repos
 - Let's jump on the [bandwagon](https://github.com/blog/1724-10-million-repositories)
 
+# Activities
+- [Setup](https://github.com/Dominick-Peluso-Bose/btc-github-intro/blob/master/activities/1%20-%20Setup.md)
+- [Clone a repo](https://github.com/Dominick-Peluso-Bose/btc-github-intro/blob/master/activities/2%20-%20Clone%20a%20repo.md)
+- [Create a repo](https://github.com/Dominick-Peluso-Bose/btc-github-intro/blob/master/activities/3%20-%20Create%20a%20repo.md)
+- [Branching](https://github.com/Dominick-Peluso-Bose/btc-github-intro/blob/master/activities/4%20-%20Branching.md)
+
 ## Other stuff we'll touch on if we have time
 - Issue tracking
 - Website hosting
