@@ -40,6 +40,7 @@ $ git push origin master
   - Links to necessary API/usage documentation
 - Sometimes badges <img src="https://img.shields.io/badge/kinda-like this-green.svg"> are displayed on the readme. These give details to the project's build/test status.
 - Markdown (and some HTML) is rendered in the readme. It's useful to reference a [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+- [bmx-adapter-tunein](https://github.com/BoseCorp/bmx-adapter-tunein) is a good example
 
 ### Add a .gitignore
 - Sometimes you may not want to add certain files to your repository. 
