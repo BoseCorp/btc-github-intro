@@ -22,13 +22,14 @@ $ git add your_file_name
 $ git commit -m "Your commit message"
 $ git push origin master
 ```
-## Let's make some files
 ### Via GitHub Desktop
 1. Make the changes/additions to the files you want within the local repo
 1. You'll see the change appear on the left side.
 1. Enter a description of your changes in the "Summary box"
 1. Click "Commit to master"
 1. Click "Push origin"
+
+## Let's make some files
 
 ### Create a README
 - The _README.md_ file renders when you visit any repository on github.com.
